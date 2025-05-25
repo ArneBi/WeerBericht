@@ -15,7 +15,7 @@ namespace WeerEventsApi.Weerstations
         {
             Locatie = locatie;
             Metingen = new List<Meting>();
-            _logger = MetingLoggerFactory.Create(false, true);
+            _logger = MetingLoggerFactory.Create(false, true); // pas deze boolean waarden aan voor json en/of xml decorators
         }
 
         public List<Meting> GeefMetingen()
