@@ -1,0 +1,10 @@
+{
+    "moment": "2025-05-07T00:54:20.976655+02:00",
+    "waarde": 82,
+    "eenheid": 0,
+    "locatie": {
+        "naam": "Gent",
+        "beschrijving": "Grootste stad van Oost-Vlaanderen",
+        "gekendVoor": "Studenten"
+    }
+}
